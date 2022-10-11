@@ -1,0 +1,7 @@
+const SET_MODE = {
+  LIGHT: "SET_MODE_LIGHT",
+  DARK: "SET_MODE_DARK",
+  DEFAULT: "SET_MODE_DEFAULT",
+};
+
+export default SET_MODE;

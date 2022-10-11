@@ -1,0 +1,7 @@
+const GET_USERS = {
+  START: "GET_USERS_START",
+  SUCCESS: "GET_USERS_SUCCESS",
+  FAIL: "GET_USERS_FAIL",
+};
+
+export default GET_USERS;
